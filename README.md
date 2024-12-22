@@ -1,2 +1,2 @@
-# goit-js-hw-02
-GOIT Homework JS 2 Repository
+# goit-js-hw-01
+GOIT Homework JS 1 Repository
